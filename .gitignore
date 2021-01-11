@@ -2,6 +2,7 @@
 .env
 .ml_env
 .venv
+ml_env/
 env/
 venv/
 ENV/
